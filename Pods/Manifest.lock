@@ -1,0 +1,15 @@
+PODS:
+  - Kingfisher (3.10.2)
+  - TWMessageBarManager (1.8.1)
+
+DEPENDENCIES:
+  - Kingfisher
+  - TWMessageBarManager
+
+SPEC CHECKSUMS:
+  Kingfisher: 7297492bf8cec9b2e2dee3519f2219948580d98e
+  TWMessageBarManager: fd84e7948ba7968a2b5d9454859135761214ec56
+
+PODFILE CHECKSUM: 6879e701f996b565a6c3365cae0bf02a0bd447c8
+
+COCOAPODS: 1.2.1
